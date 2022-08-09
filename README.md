@@ -1,5 +1,5 @@
 # bookshelf-api
-Simple API for managing bookself.
+Simple CRUD API for storing book information.
 
 to use this project :
 1. clone this repo
