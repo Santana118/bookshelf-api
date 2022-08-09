@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "server": "node src/server.js",
+    "server-prod": "NODE_ENV=production node src/server.js",
     "lint": "eslint ./",
     "lint-fix": "eslint ./ --fix"
   },
